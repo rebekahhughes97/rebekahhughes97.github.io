@@ -1,0 +1,21 @@
+---
+title: "Research"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Past Research
+
+### James Madison University
+
+
+
+### Columbia University Mailman School of Public Health
+
+I was previously involved in research with ICAP and my academic adviser at Columbia, Dr. Susan Michaels-Strasser. The first project was a case study from Democratic Republic of the Congo and aimed to determine ways to strengthen human resources for health in order to achieve epidemic control of HIV/AIDS. The second project was a case study based in Democratic Republic of the Congo and was aimed at creating interventions to improve rural rotations of nursing students and , eventually, increase the amount of nurses in rural health facilities.
+
+## Current Research
+
+I am currently working on a cross-sectional survey study that aims to explore the experience of healthcare workers at a New York City hospital during the COVID-19 pandemic.
