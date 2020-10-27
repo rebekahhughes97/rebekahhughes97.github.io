@@ -1,0 +1,17 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Experience"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<rch2155@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/<rebekahhughes97>/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/rebekah-hughes-5a76b4192/
+output:
+  html_document:
+    theme: flatly
