@@ -1,16 +1,121 @@
 ---
-title: "About Me"
+title: "Academic and Professional Experience"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is information about me
+## Education
 
-I am a student in P8105.
+Graduate Education:
+
+Columbia University Mailman School of Public Health<br>
+MPH in Epidemiology<br>
+Certificate: Infectious Disease Epidemiology<br>
+Graduate: May 2021<br>
+44.5 credit hours<br>
+GPA: 3.83 out of 4.0<br>
+Relevant coursework:
+<ul>
+<li>Foundations of Public Health: History of Public Health, Ethics, and Human Rights</li>
+<li>Research Methods and Applications: Qualitative and Quantitative</li>
+<li>Global and Developmental Perspectives: Globalization and Global Health and Lifecourse</li>
+<li>Public Health Interventions: Theory, Program Planning and Evaluation, and Systems Thinking</li>
+<li>Health Systems: Health Economics, US Health Systems, and Comparative Health Systems</li>
+<li>Determinants of Health: Social, Environmental, and Biological Determinants of Health</li>
+<li>Epidemiology: Analysis of Categorical Data, Infectious Disease Epidemiology, Design and Conduct of Observational Epidemiology</li>
+<li>Programming: Data Science, Applications of Epidemiologic Research Methods, Public Health GIS</li>
+</ul>
+
+Undergraduate Education:
+
+James Madison University<br>
+BS in Health Sciences<br>
+Concentration: Health Studies<br>
+120 credit hours<br>
+GPA: 3.66 out of 4.0<br>
+Relevant coursework:
+<ul>
+<li>Public Health: Epidemiology, Social Determinants of Health, Research Methods and Health Statistics, and US and Global Healthcare Systems</li>
+<li>Science: Chemistry (general and organic) and Biology (general, human anatomy and human physiology)</li>
+</ul>
+
+## Research Expereince
+
+Columbia University Mailman School of Public Health<br>
+ICAP at Columbia University<br>
+New York, NY, US
+
+Worked with Dr. Susan Michaels-Strasser and Dr. Paul Thurman on research regarding strengthening human resources for health reduce epidemics with HIV/AIDS in Democratic Republic of the Congo and increasing rural rotations of nursing students in Democratic Republic of the Congo.
+
+Currently working with Dr. Susan Michaels-Strasser and Dr. Yael Hirsch-Moverman on project for gaining understanding of the experience of healthcare workers in New York City during the COVID-19 pandemic.
 
 
+## Work Experience
+
+ICAP at Columbia University<br>
+New York, NY<br>
+May 2020-present<br>
+Research Assistant
+
+Inova Franconia-Springfield Surgery Center<br>
+Springfield, VA<br>
+Summers of 2015, 2016 and 2017<br>
+Intern and Part-Time Employee
+
+Youth Camps for Christ Inc.<br>
+Camp Willow Springs<br>
+Littleton, NC<br>
+Summers of 2018 and 2019<br>
+Media Specialist
 
 
+## Volunteer Experience
 
+InterVarsity Christian Fellowship<br>
+Harrisonburg, VA<br>
+Administrative Coordinator (2017-2018)<br>
+Small Group Coordinator (2016-2017)
+
+James Madison University Biology Department<br>
+Harrisonburg, VA<br>
+January-May 2018<br>
+Teaching Assistant
+
+Overcoming Barriers<br>
+James Madison University<br>
+Harrisonburg, VA<br>
+January-May 2018<br>
+Mentor
+
+
+## Awards and Certifications
+
+James Madison University<br>
+Health Science Department<br>
+Harrisonburg, VA
+<ul>
+<li>Top 3 Research Posters for Department (2019)</li>
+<li>Top 5% Score for Exit Exam (2019)</li>
+</ul>
+
+American Red Cross<br>
+November 2018-2020<br>
+First Aid/AED/CPR Certification
+
+
+## Skills
+
+Statistical Programming:
+<ul>
+<li>SAS</li>
+<li>R</li>
+<li>GIS</li>
+</ul>
+
+Applications:
+<ul>
+<li>Microsoft Office Suite</li>
+<li>Google Applications</li>
+</ul>

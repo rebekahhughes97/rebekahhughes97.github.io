@@ -6,10 +6,8 @@ output:
     toc_float: true
 ---
 
-MPH in Epidemiology Candidate
-
-Certificate in Infectious Disease Epidemiology
-
+MPH in Epidemiology Candidate<br>
+Certificate in Infectious Disease Epidemiology<br>
 Columbia University Mailman School of Public Health
 
 
@@ -34,6 +32,5 @@ I am currently working to receive my Masters in Public Health in Epidemiology at
 
 For more information about my professional and educational experience, check the links in the header of this website or check the various tabs in the header. I can also be reached at the following contact information below:
 
-Email: rch2155@cumc.columbia.edu
-
+Email: rch2155@cumc.columbia.edu<br>
 Phone: +1-703-401-0482
