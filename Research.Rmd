@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Experience"
 output: 
   html_document:
     toc: true
@@ -8,13 +8,16 @@ output:
 
 ## Past Research
 
+
 ### James Madison University
 
-
+I worked with a professor at my undergraduate institution by working on the literature search for a study that was looking at the relationship between body image, eating disorders, and social media in college students. I also worked in a group on a research project that was awarded in the top 3 research posters of the department. The research explored the relationship between narcissism and perceived acceptance rates to graduate programs among James Madison University students who planned on going into a health-related field.
+<br>
 
 ### Columbia University Mailman School of Public Health
 
 I was previously involved in research with ICAP and my academic adviser at Columbia, Dr. Susan Michaels-Strasser. The first project was a case study from Democratic Republic of the Congo and aimed to determine ways to strengthen human resources for health in order to achieve epidemic control of HIV/AIDS. The second project was a case study based in Democratic Republic of the Congo and was aimed at creating interventions to improve rural rotations of nursing students and , eventually, increase the amount of nurses in rural health facilities.
+<br>
 
 ## Current Research
 
