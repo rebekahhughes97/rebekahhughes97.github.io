@@ -5,13 +5,11 @@ navbar:
   left:
     - text: "Resume"
       href: about.html
-    - text: "Research"
+    - text: "Research and Publications"
       href: Research.html
-    - text: "Dashboard"
-      href: dashboard.html
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<rch2155@cumc.columbia.edu>
+      href: mailto:<rebekah.hughes97@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/<rebekahhughes97>/
     - icon: fa-linkedin fa-lg

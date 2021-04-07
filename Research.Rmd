@@ -1,24 +1,46 @@
 ---
-title: "Research Experience"
+title: "Research Experience and Publications"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-## Past Research
+## Columbia Mailman School of Public Health
+
+### Current Research
+
+*Masters Thesis*
+<ul>
+<li>An exploratory analysis examining the effects the COVID-19 pandemic has had on the wellbeing of frontline healthcare providers in New York City</li>
+</ul>
+
+### Unpublished Research
+
+*Human Resources for Health in Democratic Republic of the Congo*
+<ul>
+<li>Acknowledged in manuscript for contributions in literature search, editing, and preparing manuscript for publication</li>
+</ul>
+
+### Published Research
+
+*Human Resources for Health in Democratic Republic of the Congo*
+<ul>
+<li>Contributed as author in research focused on increasing rural rotations of nursing students in Democratic Republic of the Congo to better the response and treatment to HIV/AIDS</li>
+<li>In progress of being published currently in Human Resources for Health journal</li>
+</ul>
 
 
-### James Madison University
+## James Madison University
 
-I worked with a professor at my undergraduate institution by working on the literature search for a study that was looking at the relationship between body image, eating disorders, and social media in college students. I also worked in a group on a research project that was awarded in the top 3 research posters of the department. The research explored the relationship between narcissism and perceived acceptance rates to graduate programs among James Madison University students who planned on going into a health-related field.
-<br>
+### Past Projects
 
-### Columbia University Mailman School of Public Health
+*Relationship between body image, eating disorders, and social media in college students*
+<ul>
+<li>Assisted Dr. Aimee Johnson in searching literature based on this topic</li>
+</ul>
 
-I was previously involved in research with ICAP and my academic adviser at Columbia, Dr. Susan Michaels-Strasser. The first project was a case study from Democratic Republic of the Congo and aimed to determine ways to strengthen human resources for health in order to achieve epidemic control of HIV/AIDS. The second project was a case study based in Democratic Republic of the Congo and was aimed at creating interventions to improve rural rotations of nursing students and , eventually, increase the amount of nurses in rural health facilities.
-<br>
-
-## Current Research
-
-I am currently working on a cross-sectional survey study that aims to explore the experience of healthcare workers at a New York City hospital during the COVID-19 pandemic.
+*Relationship between narcissism and perceived acceptance rates to graduate programs*
+<ul>
+<li>Examined perceived acceptance rates to graduate programs among JMU students pursuing a graduate education in a health-related field</li>
+</ul>
