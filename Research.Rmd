@@ -6,14 +6,26 @@ output:
     toc_float: true
 ---
 
+<style type="text/css">
+
+h1.title {
+  text-align: center;
+}
+
+</style>
+
+&nbsp;
+
 ## Columbia Mailman School of Public Health
 
-### Current Research
+### Current Research for Publication
 
 *Masters Thesis*
 <ul>
 <li>An exploratory analysis examining the effects the COVID-19 pandemic has had on the wellbeing of frontline healthcare providers in New York City</li>
 </ul>
+
+&nbsp;
 
 ### Unpublished Research
 
@@ -21,6 +33,8 @@ output:
 <ul>
 <li>Acknowledged in manuscript for contributions in literature search, editing, and preparing manuscript for publication</li>
 </ul>
+
+&nbsp;
 
 ### Published Research
 
@@ -30,6 +44,7 @@ output:
 <li>In progress of being published currently in Human Resources for Health journal</li>
 </ul>
 
+&nbsp;
 
 ## James Madison University
 
@@ -39,6 +54,8 @@ output:
 <ul>
 <li>Assisted Dr. Aimee Johnson in searching literature based on this topic</li>
 </ul>
+
+&nbsp;
 
 *Relationship between narcissism and perceived acceptance rates to graduate programs*
 <ul>

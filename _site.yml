@@ -16,4 +16,4 @@ navbar:
       href: https://www.linkedin.com/in/rebekah-hughes-5a76b4192/
 output:
   html_document:
-    theme: flatly
+    theme: lumen

@@ -6,17 +6,25 @@ output:
     toc_float: true
 ---
 
-MPH in Epidemiology Candidate<br>
+<style type="text/css">
+
+h1.title {
+  text-align: center;
+}
+
+</style>
+
+<center>MPH in Epidemiology Candidate<br>
 Certificate in Infectious Disease Epidemiology<br>
-Columbia University Mailman School of Public Health
+Columbia University Mailman School of Public Health</center>
 
-
+&nbsp;
 
 <img src ="Images/me.jpg" width="50%" height="50%" style="display: block; margin-left: auto; margin-right: auto;">
 
+&nbsp;
 
-
-## Public Health
+## Public Health Research
 
 I am currently a student studying public health, and more specifically Epidemiology. I am currently doing research with various ICAP faculty, including my academic advisor, Dr. Susan Michaels-Strasser. I began doing public health research in the summer of 2020 and have so far worked on projects regarding epidemic control of HIV/AIDS in Democratic Republic of the Congo and rural rotations of nursing students in Democratic Republic of the Congo.
 

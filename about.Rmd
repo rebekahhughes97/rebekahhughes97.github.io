@@ -6,6 +6,16 @@ output:
     toc_float: true
 ---
 
+<style type="text/css">
+
+h1.title {
+  text-align: center;
+}
+
+</style>
+
+&nbsp;
+
 ## Education<br>
 **Columbia University Mailman School of Public Health**, New York, NY<br>
 MPH in Epidemiology with certificate in Infectious Disease Epidemiology, May 2021<br>
@@ -23,6 +33,9 @@ Thinking</li>
 Systems</li>
 <li>Determinants of Health: Social, Environmental, and Biological Determinants of Health</li>
 </ul>
+
+&nbsp;
+
 **James Madison University**, Harrisonburg, VA<br>
 BS in Health Science with concentration in Health Studies, May 2019<br>
 GPA: 3.66 out of 4.0<br>
@@ -31,16 +44,34 @@ Relevant Coursework:
 <li>Public Health: Epidemiology, Social Determinants of Health, Research Methods and Health Statistics, and US and Global Healthcare Systems</li>
 <li>Science: Chemistry (general and organic) and Biology (general, human anatomy and human physiology)</li>
 </ul>
+
+&nbsp;
+
 ## Research Experience<br>
 **ICAP at Columbia University**, New York, NY – May 2020-Present
 <ul>
 <li>Assisted Dr. Susan Michaels-Strasser and colleagues with authoring and publishing human resources for health research focused in the Democratic Republic of the Congo</li>
 <li>Authored thesis project, with the assistance of Dr. Susan Michaels-Strasser, regarding the effect the COVID-19 pandemic has had on the wellbeing of healthcare providers in New York City</li>
 </ul>
+
+&nbsp;
+
 **James Madison University Department of Health Science**, Harrisonburg, VA – January-May 2019
 <ul>
 <li>Assisted Dr. Aimee Johnson with literature review exploring the relationship between social media, body image and eating disorders in college students</li>
 </ul>
+
+&nbsp;
+
+## Editorial Activities<br>
+**American Journal of Public Health Global News**, April 2021-Present
+<ul>
+<li>Work alongside Global News Team colleagues to review manuscripts focused on global public health topics that are posted in non-indexed journals</li>
+<li>The reviews occur once per month and this is a volunteer position</li>
+</ul>
+
+&nbsp;
+
 ## Relevant Work Experience<br>
 **ICAP at Columbia University**, New York, NY<br>
 *Research Assistant*, May 2020-Present
@@ -48,59 +79,96 @@ Relevant Coursework:
 <li>Assisted with research on two projects focused on human resources for health in Democratic Republic of the Congo</li>
 <li>Acknowledged in one manuscript and contributed as author on second manuscript for publication</li>
 </ul>
+
+&nbsp;
+
 **Inova Franconia-Springfield Surgery Center**, Springfield, VA<br>
 *Business Office Assistant*, May-August 2017
 <ul>
 <li>Promoted to part-time employee of the surgery center where I assisted in the business office by checking and prepping charts for send-off, communicating with medical staff, and requesting charts for medical professionals in the center</li>
 </ul>
+
+&nbsp;
+
 *Intern*, June-August 2015 & May-August 2016
 <ul>
 <li>Assisted the nurses in the pre-operative and post-operative areas with caring for patients and communicated directly with patients and families</li>
 </ul>
+
+&nbsp;
+
 ## Other Work Experience<br>
 **Youth Camps for Christ Summer Camps**, Littleton, NC<br>
 *Media Specialist*, June-August 2018 & June-August 2019
 <ul>
 <li>Took photos, created photo presentations, and updated the social media and website throughout camp sessions</li>
 </ul>
+
+&nbsp;
+
 ## Volunteer Experience<br>
 **InterVarsity Christian Fellowship at James Madison University**, Harrisonburg, VA<br>
 *Administrative Coordinator*, December 2017-December 2018
 <ul>
 <li>Assisted the President, in the equivalent role of a Vice President, by organizing and managing the weekly executive meetings and other events in the chapter, while working directly with administrators at the university</li>
 </ul>
+
+&nbsp;
+
 *Small Group Coordinator*, December 2016-December 2017
 <ul>
 <li>Met one-on-one with leaders in the chapter and coordinated meetings with other members of the executive board</li>
 </ul>
+
+&nbsp;
+
 **James Madison University Biology Department**, Harrisonburg, VA<br>
 *Teaching Assistant*, January 2018-May 2018
 <ul>
 <li>Assisted in a biology laboratory classroom and taught how to perform basic lab techniques</li>
 </ul>
+
+&nbsp;
+
 **Overcoming Barriers**, Harrisonburg, VA<br>
 *Mentor*, January-April 2018
 <ul>
 <li>Assisted my mentee with learning how to make healthy meals in a kitchen and learning to try new, healthy foods</li>
 </ul>
+
+&nbsp;
+
 ## Awards and Presentations<br>
 **Columbia University Mailman School of Public Health**<br>
 *Exemplary and Noteworthy Data Science Project*, December 2020
 <ul>
 <li>Final course group project was noted as being in the top 5 of projects for the course and performing data science skills well in R. The project created a website using R to analyze police violence and protests in the United States</li>
 </ul>
+
+&nbsp;
+
 *Epidemiology Department Masters Student Day*, November 2020
 <ul>
 <li>Presented my practicum research to a panel of students and faculty in the Epidemiology Department at Columbia University Mailman School of Public Health</li>
 </ul>
+
+&nbsp;
+
 **James Madison University Department of Health Science**<br>
 *Top 3 Research Posters for Department*, May 2020
 <ul>
 <li>Received a score for group research poster placing the research in the top 3 for the department. The posters were judged by faculty not involved in or supporting the research</li>
 </ul>
+
+&nbsp;
+
 *Top 5% Score for Department Exam*, May 2020
 <ul>
 <li>Attained a score placing me in the top 5% of test scores among those graduating in the Health Science department and earned department-wide recognition for such</li>
 </ul>
+
+&nbsp;
+
 ## Skills<br>
-*Computer*: Microsoft Office Suite, Google Applications, R, SAS, QGIS, GeoDa
+*Applications*: Microsoft Office Suite, Google Applications, R, SAS, QGIS, GeoDa, Zotero, PubMed, Qualtrics
+*Research*: Manuscript Development, Protocol Development, Survey Development
